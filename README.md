@@ -19,5 +19,5 @@ simplify ratio=0.5
 <img src="/dragon_0.5.png" width="500">
   
 simplify ratio=0.03  
-<img src="/dragon_0.03.png" width='500">
+<img src="/dragon_0.03.png" width="500">
 
